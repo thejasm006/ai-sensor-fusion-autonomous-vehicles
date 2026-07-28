@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.db3
+build/
+install/
+log/
+.vscode/
